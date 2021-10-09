@@ -1,6 +1,6 @@
 # Ru Paul Charles - tribute page 🌈
 
-## [*Click here*](https://miahbates.github.io/cfg-final-project/) to check out my page. :sparkles:
+## [*Click here*](https://miahbates.github.io/rupaul-tribute-page/) to check out my page. :sparkles:
 
 <img width="1440" alt="Screenshot 2021-10-09 at 19 41 46" src="https://user-images.githubusercontent.com/78933903/136670513-916442cf-d514-4215-bb9d-ca8934b862eb.png">
 
